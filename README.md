@@ -1,3 +1,3 @@
-# rn2-bitpt
+# rn26-bitpt
 bitpt
 bit ptptptptp
