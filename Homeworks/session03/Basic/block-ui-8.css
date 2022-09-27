@@ -1,0 +1,57 @@
+.main{
+    width: 90%;
+    height: 550px;
+    border: 1px solid #000;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.html{
+    display: flex;
+    width: 80%;
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.icon{
+    height: 30px;
+}
+.icon .fa{
+    font-size: 15px;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    padding-left: 9px;
+    padding-top: 6px;
+}
+.text{
+    margin-left: 15px;
+}
+.col{
+    margin-left: 35px;
+}
+
+.css{
+    display: flex;
+    width: 80%;
+    margin-top: 45px;
+    margin-left: 35px;
+}
+
+.php{
+    display: flex;
+    width: 80%;
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.java{
+    display: flex;
+    width: 80%;
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.net{
+    display: flex;
+    width: 80%;
+    margin-top: 45px;
+    margin-left: 35px;
+}

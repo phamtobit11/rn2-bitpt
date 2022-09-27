@@ -1,0 +1,109 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+/* FACEBOOK */
+.facebook .block {
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 200px;
+    width: 160px;
+    background-color: rgb(0, 89, 255);
+}
+.facebook .fa{
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 40px;
+}
+.facebook .text {
+    font-size: 20px;
+    color: #fff;
+    margin-left: 15px;
+    margin-top: 85px;
+}
+.facebook .tx{
+    font-size: 12px;
+    color: #fff;
+    margin-left: 15px;
+}
+
+
+/* GOOGLE */
+.google .block {
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 200px;
+    width: 160px;
+    background-color: rgb(231, 61, 61);
+}
+.google .fa{
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 40px;
+}
+.google .text {
+    font-size: 20px;
+    color: #fff;
+    margin-left: 15px;
+    margin-top: 85px;
+}
+.google .tx{
+    font-size: 12px;
+    color: #fff;
+    margin-left: 15px;
+}
+
+/* TWITTER */
+.twitter .block {
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 200px;
+    width: 160px;
+    background-color: rgb(62, 164, 204);
+}
+.twitter .fa{
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 40px;
+}
+.twitter .text {
+    font-size: 20px;
+    color: #fff;
+    margin-left: 15px;
+    margin-top: 85px;
+}
+.twitter .tx{
+    font-size: 12px;
+    color: #fff;
+    margin-left: 15px;
+}
+
+/* PINTEREST */
+.pinterest .block {
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 200px;
+    width: 160px;
+    background-color: rgb(221, 53, 53);
+}
+.pinterest .fa{
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 40px;
+}
+.pinterest .text {
+    font-size: 20px;
+    color: #fff;
+    margin-left: 15px;
+    margin-top: 85px;
+}
+.pinterest .tx{
+    font-size: 12px;
+    color: #fff;
+    margin-left: 15px;
+}
